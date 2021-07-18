@@ -75,18 +75,10 @@ input {
     color: rgb(255, 255, 255);
 }
 
-a:link {
+a {
     text-decoration: none;
+    color: rgb(255, 0, 0);
 }
-
-a:visited {
-    color: rgb(158, 0, 0);
-}
-
-a:active {
-    color: rgb(158, 0, 0);
-}
-
 .itens {
     display: flex;
     justify-content: center;
