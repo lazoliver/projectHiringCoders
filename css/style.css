@@ -23,8 +23,8 @@
 
 .product {
     display: inline-block;
-    justify-content: center;
     align-items: center;
+    text-align: center;
     padding: 3vh;
     margin: 2vh;
     font-size: 1.3ch;
