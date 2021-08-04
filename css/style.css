@@ -10,8 +10,8 @@
     height: 50vh;
     max-width: 100%;
     justify-content: center;
-    padding: 5vh;
-    margin: 5vh;
+    padding: 2vh;
+    margin: 2vh;
 }
 
 .background {
@@ -22,14 +22,14 @@
 }
 
 .product {
+    display: flex;
     height: 25vh;
     justify-content: center;
     align-items: center;
-    padding: 5vh;
-    margin: 3vh;
-    font-size: 2ch;
+    padding: 3vh;
+    margin: 2vh;
+    font-size: 1.3ch;
 }
-
 
 #vitrine {
     display: flex;
